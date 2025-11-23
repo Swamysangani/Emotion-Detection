@@ -180,7 +180,4 @@ Converted into a single CSV for training.
 
 ---
 
-## ❤️ Credits
 
-Developed by **Shruthi Ramesh (Sam)** ❤️  
-Emotion Classification using NLP + LSTM  
